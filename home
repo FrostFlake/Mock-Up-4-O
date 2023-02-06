@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" id="DesktopViewport">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>BLKWLTH COACHING & CONSULTING</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+	<body>
+	<h1>BLKWLTH COACHING & CONSULTING</h1>
+	<p>Your Future Is Here. Your Time Is Now.</p>
+	<div class="topnav">
+  <a class="active" href="#home">Home</a>
+	<a href="#about me">About Me</a>
+  <a href="#email list">Email List</a>
+  <a href="#services">Services</a>
+  <a href="#testimonials">Testimonials</a>
+	<a href="#faq">FAQ</a>
+	<a href="#mindful finance incubator">Mindful Finance Incubator</a>
+	<a href="#socials">Socials</a>
+</div>
+    <h2>GET TO KNOW ME</h2>
+    <p>Hey. I’m Odi. I’m a Millennial, and I’m a Master Life Coach. I'm originally from Chicago (Outwest), IL, and currently reside in Philadephia, PA.</p>
+    <p>I specialize in eclectic interventions utilizing evidence based intervention styles suited for any client need. 
+I have two degrees, a Bachelors of Science in Rehabilitation Services Addictions Concentration and a Masters of Science in Community Psychology Africentric Orientation Concentration, both earned at Historically Black Colleges and Universities.
+Over the course of my career, I’ve moved around multiple agencies. From supervisor to outpatient therapist to educational liaison, I’ve diversified my knowledge base to include an array of different viewpoints.</p>
+    <p>As a Master Life Coach, I’ve separated myself from other coaches through both the expertise that I have gathered, and the education that I have obtained.</p>
+    <p>I am a Master Life Coach because I have dedicated myself to the pursuit of mastery in my craft, for myself and my clients.</p>
+  <a href="https://www.blkwlth.com/1-on-1-holistic-mental-health-life-coach-retainer-monthly" target="_blank">Get Coached By Me</a>
+    <a href="https://www.blkwlth.com/services-5" target="_blank">Join A Book Club</a>
+    <a href="https://www.blkwlth.com/webinar-registration" target="_blank">Get/Keep A Bag</a>
+    <a href="https://hotmart.com/en/marketplace/products/the-manifestation-manual-x-professor-odi/G75996259F" target="_blank">Buy My Book</a>
+    <a href="https://www.linkedin.com/in/odilakachi-w-hezekiah-onwukwe-22517995/" target="_blank">My Resume</a>
+  </body>
+</html>
